@@ -1,0 +1,11 @@
+# Dependencies
+node_modules
+
+# Environmental files
+*.env
+
+# Generated files
+/build/
+
+# VScode folder
+.vscode
